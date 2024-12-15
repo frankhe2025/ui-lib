@@ -8,4 +8,4 @@ npm view @frankhe/mf-lib
 GitHub Token:
 frankhe2025
 
-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
+
