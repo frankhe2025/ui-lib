@@ -1,6 +1,6 @@
 {
   "name": "@frankhe2025/ui-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Example of using gitHub Package",
   "scripts": {
     "rollup": "rollup -c",
